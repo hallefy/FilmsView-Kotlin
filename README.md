@@ -1,7 +1,6 @@
 # FilmsView-Kotlin
 
-Project of Films View using:
-
+App make to study MVP architecture using :
 Dagger
 MVP
 Retrofit
